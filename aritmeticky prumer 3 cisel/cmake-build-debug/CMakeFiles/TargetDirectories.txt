@@ -1,0 +1,3 @@
+D:/algorizmizace/aritmeticky prumer 3 cisel/cmake-build-debug/CMakeFiles/aritmeticky_prumer_3_cisel.dir
+D:/algorizmizace/aritmeticky prumer 3 cisel/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/algorizmizace/aritmeticky prumer 3 cisel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
