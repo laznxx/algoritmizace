@@ -1,0 +1,3 @@
+D:/algorizmizace/zkouska siren/cmake-build-debug/CMakeFiles/zkouska_siren.dir
+D:/algorizmizace/zkouska siren/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/algorizmizace/zkouska siren/cmake-build-debug/CMakeFiles/rebuild_cache.dir
