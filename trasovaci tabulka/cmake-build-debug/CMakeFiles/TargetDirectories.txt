@@ -1,0 +1,3 @@
+D:/algorizmizace/trasovaci tabulka/cmake-build-debug/CMakeFiles/trasovaci_tabulka.dir
+D:/algorizmizace/trasovaci tabulka/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/algorizmizace/trasovaci tabulka/cmake-build-debug/CMakeFiles/rebuild_cache.dir

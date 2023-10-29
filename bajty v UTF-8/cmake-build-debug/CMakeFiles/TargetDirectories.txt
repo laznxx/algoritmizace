@@ -1,0 +1,3 @@
+D:/algoritmizace/bajty v UTF-8/cmake-build-debug/CMakeFiles/bajty_v_UTF_8.dir
+D:/algoritmizace/bajty v UTF-8/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/algoritmizace/bajty v UTF-8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
