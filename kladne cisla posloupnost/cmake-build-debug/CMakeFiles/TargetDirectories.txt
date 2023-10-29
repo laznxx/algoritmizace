@@ -1,0 +1,3 @@
+D:/algorizmizace/kladne cisla posloupnost/cmake-build-debug/CMakeFiles/kladne_cisla_posloupnost.dir
+D:/algorizmizace/kladne cisla posloupnost/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/algorizmizace/kladne cisla posloupnost/cmake-build-debug/CMakeFiles/rebuild_cache.dir
